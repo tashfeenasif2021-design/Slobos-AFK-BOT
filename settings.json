@@ -6,10 +6,10 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Devil_1230.aternos.me
-",
+    "ip": "Devil_1230.aternos.me",
+
     "port": 25270,
-    "version": "1.21.1"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
